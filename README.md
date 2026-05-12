@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start
+### `npm start'
 
 ### `npm test`
 
@@ -85,5 +85,5 @@ MoneyMate is a two-sided platform that helps students track expenses and save mo
    ```bash
    git clone https://github.com/SkZaraSultana/moneymate-demo.git
 >>>>>>> eddcad53eb75db24c7306cc512e77a294d04fa3b
->>>>>>
+>>>>>>> 
 >>>>>>Link : https://moneymate-demo.netlify.app/
